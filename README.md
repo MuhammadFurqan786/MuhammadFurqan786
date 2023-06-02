@@ -1,3 +1,4 @@
+![logo](https://github.com/MuhammadFurqan786/MuhammadFurqan786/blob/main/banner%20image.png)
 <h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
 <h3 align="center">A passionate Mobile App Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
