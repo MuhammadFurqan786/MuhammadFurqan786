@@ -19,7 +19,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/muhammad-furqan-2399a6135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-furqan-2399a6135" height="30" width="40" /></a>
-<a href="https://bold.pro/my/muhammad-furqan-786" target="blank"><img align="center" src="https://bold.pro/assets/prs/logos/logo.svg" alt="muhammad-furqan-2399a6135" height="30" width="40" /></a>
+<a href="https://bold.pro/my/muhammad-furqan-786" target="blank"><img align="center" src="https://bold.pro/assets/prs/logos/logo.svg" alt="bold profile" height="30" width="40" /></a>
 <a href="https://fb.com/furqan chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="furqan chaudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/furqan chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furqan chaudhary" height="30" width="40" /></a>
 <a href="https://medium.com/@chmfurqan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chmfurqan3" height="30" width="40" /></a>
